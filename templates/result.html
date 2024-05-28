@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>{{ company }} Share Price Prediction</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap-glyphicons.css">
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-image: url('/static/result.jpg');
+            background-size: cover;
+            background-repeat: no-repeat;
+            color: #000;
+            /* Added color to prevent empty value */
+        }
+
+        .container {
+            max-width: 900px;
+            margin: 14% auto;
+            padding-top: 30px;
+            opacity: 0.92;
+            background-color: #fff;
+            /* Adding a background color for better readability */
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+            /* Adding a shadow for better visibility */
+            padding: 20px;
+            /* Adding padding for inner content */
+        }
+
+        h1 {
+            text-align: center;
+            font-size: 3em;
+            margin-top: 0;
+        }
+
+        p {
+            font-size: 1.5em;
+            margin: 0;
+            padding: 20px 0;
+            text-align: center;
+            font-weight: bold;
+            color: #FF070F;
+        }
+
+        img {
+            display: block;
+            margin: 0 auto;
+            max-width: 100%;
+            height: auto;
+            border: 1px solid #ccc;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+        }
+
+        .btn-primary {
+            background-color: #B84D93;
+            border-color: #FF6932;
+            font-size: 1.2em;
+            font-weight: bold;
+            padding: 10px 30px;
+            margin: 20px 0;
+            display: block;
+            /* Ensuring it takes the full width in a block layout */
+            width: 100%;
+        }
+
+        .btn-primary:hover {
+            background-color: #003d4d;
+            border-color: #003d4d;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="container">
+        <h1><strong>Energy Consumption Result</strong></h1>
+        <p><strong>The Energy Consumption for {{sector_name}} is {{ value[0] }} </strong>.</p>
+
+        <a href="/" class="btn btn-primary">Back to Search</a>
+    </div>
+</body>
+
+</html>
