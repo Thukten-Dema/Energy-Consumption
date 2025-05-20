@@ -3,6 +3,7 @@
 
 **Electricity Bill Prediction** is a web-based application developed to analyze and forecast household electricity consumption patterns in Thimphu city using machine learning and data analysis techniques. This tool empowers users and stakeholders with accurate energy forecasts, enabling efficient planning, sustainable usage, and improved billing transparency.
 
+---
 
 ### 👥 Team Collaboration
 
@@ -14,6 +15,7 @@ This project was collaboratively developed by **Group 3** as part of the coursew
 - Sonam Tobgay (12210090)
 
 
+---
 
 ### 📌 Problem Statement
 
@@ -65,17 +67,4 @@ To develop a web application that analyzes and predicts household energy consump
 
 
 
-## Home Page:
-![Real Time Stock Price Predictor - Google Chrome 30-04-2023 18_54_56](https://user-images.githubusercontent.com/105841271/235355546-2c2ed4ad-6288-449a-b064-5d0e4281689c.png)
 
-
-## Result Page:
-![AAPL Share Price Prediction - Google Chrome 30-04-2023 18_58_18](https://user-images.githubusercontent.com/105841271/235355565-b4ceed1a-194e-4ce8-a37b-9fcc2e8f6a93.png)
-
-
-## Data Traning:
-It take while beacuse the dataset train for 25 Epochs.
-![stockprice – main py 30-04-2023 19_00_37](https://user-images.githubusercontent.com/105841271/235355570-d68e3e75-f7ab-4b72-b06d-9d4e1e07b7f0.png)
-
-
-DataSet from Yahoo Finance//Yfinance : https://finance.yahoo.com/
