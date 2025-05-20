@@ -1,7 +1,7 @@
 
-### 🔌 Electricity Bill Prediction – A Smart Energy Forecasting System
+### 🔌 Energy Consumption – A Smart Energy Forecasting System
 
-**Electricity Bill Prediction** is a web-based application developed to analyze and forecast household electricity consumption patterns in Thimphu city using machine learning and data analysis techniques. This tool empowers users and stakeholders with accurate energy forecasts, enabling efficient planning, sustainable usage, and improved billing transparency.
+**Energy Consumption** is a web-based application developed to analyze and forecast household electricity consumption patterns in Thimphu city using machine learning and data analysis techniques. This tool empowers users and stakeholders with accurate energy forecasts, enabling efficient planning, sustainable usage, and improved billing transparency.
 
 ---
 
